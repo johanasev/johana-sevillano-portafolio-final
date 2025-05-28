@@ -108,7 +108,7 @@ Este enfoque de diseño modular y la reutilización de componentes son caracter�
 
 ## Despliegue
 Puedes ver la versión en línea aquí:
-➡️ [https://johana-sevillano.vercel.app](https://johana-sevillano-portafolio.vercel.app/) ← (Deloy en Vercel)
+➡️ [https://johana-sevillano-final.vercel.app](https://johana-sevillano-portafolio-final.vercel.app/) ← (Deloy en Vercel)
 
 ## Desarrollado por
 
